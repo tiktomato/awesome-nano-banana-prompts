@@ -1,29 +1,35 @@
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md)
 
-# Awesome Nano Banana プロンプト集
+# Nano Banana プロンプト集
 
-> 120 件の厳選Nano Banana PROプロンプト。 (23件プレビュー画像付き)
+> Nano Banana の厳選プロンプト 128 件 — テキストから画像 125 件 + 画像から画像 3 件（プレビュー 31 件）
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-nano-banana-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-nano-banana-prompts)
 
-## カテゴリ
+## カテゴリー
 
-- [写真](#photography) (12件)
-- [ポスター](#poster) (12件)
-- [アート](#art) (15件)
-- [商品広告](#product) (7件)
-- [建築](#architecture) (14件)
-- [グルメ](#food) (9件)
-- [漫画](#comic) (11件)
-- [アプリ / Webデザイン](#ui) (9件)
-- [インフォグラフィック](#infographic) (9件)
-- [ソーシャルメディア](#social) (8件)
-- [プロフィール](#avatar) (7件)
-- [YouTubeサムネイル](#thumbnail) (7件)
+**テキストから画像**
+
+- [フォトグラフィー](#photography) (13)
+- [ポスター](#poster) (12)
+- [アート](#art) (15)
+- [プロダクト広告](#product) (10)
+- [建築](#architecture) (14)
+- [フード](#food) (10)
+- [コミック](#comic) (11)
+- [UIデザイン](#ui) (9)
+- [インフォグラフィック](#infographic) (9)
+- [ソーシャルメディア](#social) (8)
+- [アバター](#avatar) (7)
+- [サムネイル](#thumbnail) (7)
+
+**画像から画像**
+
+- [画像変換 / 分解](#image-to-image) (3)
 
 ---
 
-## 写真 <a id="photography"></a>
+## フォトグラフィー <a id="photography"></a>
 
 ### Mountain Sunset Photo
 
@@ -78,6 +84,12 @@
 ### River Valley Panorama
 
 > Wide river valley with green fields and distant snow-capped mountains, golden hour lighting, ultra-realistic, nano-banana
+
+### Golden Retriever at Golden Hour
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png" width="400" />
+
+> A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail
 
 ## ポスター <a id="poster"></a>
 
@@ -199,7 +211,7 @@
 
 > 一个详细的漫画角色插图，一个女忍者隐藏在森林中，复杂的服饰设计，精细的线条，黑暗氛围。
 
-## 商品広告 <a id="product"></a>
+## プロダクト広告 <a id="product"></a>
 
 ### Smartwatch Product Image
 
@@ -234,6 +246,24 @@
 ### Product Tech Infographic
 
 > Infographic for a product using Nano-Banana technology, with specs, comparisons, and user benefits illustrated.
+
+### Astronaut Action Figure
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png" width="400" />
+
+> A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.
+
+### Outfit Decomposition Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="400" />
+
+> Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.
+
+### Backpack Gear Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="400" />
+
+> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
 
 ## 建築 <a id="architecture"></a>
 
@@ -295,7 +325,7 @@
 
 > 宽敞的开放式办公室，协作区域和自然光线，现代室内设计，nano-banana
 
-## グルメ <a id="food"></a>
+## フード <a id="food"></a>
 
 ### Pizza Food Image
 
@@ -335,7 +365,13 @@
 
 > Assortment of colorful pastries and cakes on a wooden board, detailed textures and icing, nano-banana
 
-## 漫画 <a id="comic"></a>
+### Meal Ingredients Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="400" />
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+
+## コミック <a id="comic"></a>
 
 ### Superhero Comic Panel
 
@@ -385,7 +421,7 @@
 
 > 一个漫画面板序列，显示角色高速移动战斗，强烈的动态线条，阴影效果，灵感来自《死神》，高冲击力视觉。
 
-## アプリ / Webデザイン <a id="ui"></a>
+## UIデザイン <a id="ui"></a>
 
 ### Mobile App UI Design
 
@@ -505,7 +541,7 @@
 
 > 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
 
-## プロフィール <a id="avatar"></a>
+## アバター <a id="avatar"></a>
 
 ### Futuristic Warrior Avatar
 
@@ -541,7 +577,7 @@
 
 > 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
 
-## YouTubeサムネイル <a id="thumbnail"></a>
+## サムネイル <a id="thumbnail"></a>
 
 ### Tech Review Thumbnail
 
@@ -573,13 +609,52 @@
 
 > YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
 
+## 画像変換 / 分解 <a id="image-to-image"></a>
+
+これらのプロンプトは参照画像と一緒に使用します。画像をアップロードして分解や変換を行ってください。
+
+### コーデ分解フラットレイ
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_8d9276010009401b9423e508876abc4c_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="300" /> |
+
+> このコーディネートをフラットレイ画像に分解。各アイテムを白い背景に整然と並べる。
+>
+> *Original: Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.*
+
+### 料理の食材分解
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_5eec0c6c75694f0d904567f8baf9e35d_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="300" /> |
+
+> この料理を個々の食材に分解、清潔な白い表面にきれいに並べる。フラットレイフードフォト。
+>
+> *Original: Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.*
+
+### バックパック装備分解
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_1984dca12a874931a0716b6ec39719cc_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="300" /> |
+
+> このバックパックを個々のギアアイテムに分解、整然と配置。俯瞰フラットレイフォト。
+>
+> *Original: Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.*
+
 ---
 
-## ライセンス
+## Contributing
+
+Contributions welcome!
+
+## License
 
 MIT
 
-## リンク
+## Links
 
 - [TikTomato](https://tiktomato.com)
-- [プロンプト集](https://tiktomato.com/ja/prompts/nano-banana)
+- [Nano Banana PRO](https://tiktomato.com/model/nano-banana-pro)
+- [Nano Banana Prompts](https://tiktomato.com/prompts/nano-banana) — Browse & generate online

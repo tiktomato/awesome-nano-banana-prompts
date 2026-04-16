@@ -2,24 +2,30 @@
 
 # Awesome Nano Banana Prompts
 
-> 120 curated prompts for Nano Banana PRO. (23 with preview images)
+> 128 curated prompts for Nano Banana — 125 text-to-image + 3 image-to-image. (31 with preview images)
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-nano-banana-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-nano-banana-prompts)
 
 ## Categories
 
-- [Photography](#photography) (12 prompts)
-- [Poster / Flyer](#poster) (12 prompts)
-- [Art / Creative](#art) (15 prompts)
-- [Product Ad](#product) (7 prompts)
-- [Architecture](#architecture) (14 prompts)
-- [Food](#food) (9 prompts)
-- [Comic / Storyboard](#comic) (11 prompts)
-- [App / Web Design](#ui) (9 prompts)
-- [Infographic](#infographic) (9 prompts)
-- [Social Media](#social) (8 prompts)
-- [Profile / Avatar](#avatar) (7 prompts)
-- [YouTube Thumbnail](#thumbnail) (7 prompts)
+**Text-to-Image**
+
+- [Photography](#photography) (13)
+- [Poster / Flyer](#poster) (12)
+- [Art / Creative](#art) (15)
+- [Product Ad](#product) (10)
+- [Architecture](#architecture) (14)
+- [Food](#food) (10)
+- [Comic / Storyboard](#comic) (11)
+- [App / Web Design](#ui) (9)
+- [Infographic](#infographic) (9)
+- [Social Media](#social) (8)
+- [Profile / Avatar](#avatar) (7)
+- [YouTube Thumbnail](#thumbnail) (7)
+
+**Image-to-Image**
+
+- [Image-to-Image / Decomposition](#image-to-image) (3)
 
 ---
 
@@ -78,6 +84,12 @@
 ### River Valley Panorama
 
 > Wide river valley with green fields and distant snow-capped mountains, golden hour lighting, ultra-realistic, nano-banana
+
+### Golden Retriever at Golden Hour
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png" width="400" />
+
+> A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail
 
 ## Poster / Flyer <a id="poster"></a>
 
@@ -235,6 +247,24 @@
 
 > Infographic for a product using Nano-Banana technology, with specs, comparisons, and user benefits illustrated.
 
+### Astronaut Action Figure
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png" width="400" />
+
+> A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.
+
+### Outfit Decomposition Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="400" />
+
+> Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.
+
+### Backpack Gear Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="400" />
+
+> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
+
 ## Architecture <a id="architecture"></a>
 
 ### Modern Skyscraper Design
@@ -334,6 +364,12 @@
 ### Pastries Assortment
 
 > Assortment of colorful pastries and cakes on a wooden board, detailed textures and icing, nano-banana
+
+### Meal Ingredients Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="400" />
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
 
 ## Comic / Storyboard <a id="comic"></a>
 
@@ -572,6 +608,34 @@
 ### Tech Review Thumbnail
 
 > YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
+
+## Image-to-Image / Decomposition <a id="image-to-image"></a>
+
+These prompts are designed to be used with a reference image. Upload your image and use these prompts to decompose or transform it.
+
+### Outfit Flat Lay Knolling
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_8d9276010009401b9423e508876abc4c_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="300" /> |
+
+> Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.
+
+### Meal Ingredients Decomposition
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_5eec0c6c75694f0d904567f8baf9e35d_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="300" /> |
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+
+### Backpack Gear Knolling
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_1984dca12a874931a0716b6ec39719cc_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="300" /> |
+
+> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
 
 ---
 

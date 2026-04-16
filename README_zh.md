@@ -1,25 +1,31 @@
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md)
 
-# Awesome Nano Banana 提示词集
+# Nano Banana 提示词精选集
 
-> 120 条精选 Nano Banana PRO 提示词。 (23 条附预览图)
+> 128 条精选 Nano Banana 提示词 — 125 条文生图 + 3 条图生图（31 条有预览图）
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-nano-banana-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-nano-banana-prompts)
 
 ## 分类
 
-- [摄影](#photography) (12 条)
-- [海报 / 传单](#poster) (12 条)
-- [艺术创作](#art) (15 条)
-- [产品广告](#product) (7 条)
-- [建筑 / 室内](#architecture) (14 条)
-- [美食](#food) (9 条)
-- [漫画 / 故事板](#comic) (11 条)
-- [APP / 网页设计](#ui) (9 条)
-- [信息图](#infographic) (9 条)
-- [社交媒体](#social) (8 条)
-- [个人资料 / 头像](#avatar) (7 条)
-- [YouTube 缩略图](#thumbnail) (7 条)
+**文生图**
+
+- [摄影](#photography) (13)
+- [海报](#poster) (12)
+- [艺术创意](#art) (15)
+- [产品广告](#product) (10)
+- [建筑](#architecture) (14)
+- [美食](#food) (10)
+- [漫画](#comic) (11)
+- [UI 设计](#ui) (9)
+- [信息图](#infographic) (9)
+- [社交媒体](#social) (8)
+- [头像](#avatar) (7)
+- [视频封面](#thumbnail) (7)
+
+**图生图**
+
+- [图生图 / 图片拆解](#image-to-image) (3)
 
 ---
 
@@ -79,7 +85,13 @@
 
 > Wide river valley with green fields and distant snow-capped mountains, golden hour lighting, ultra-realistic, nano-banana
 
-## 海报 / 传单 <a id="poster"></a>
+### Golden Retriever at Golden Hour
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png" width="400" />
+
+> A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail
+
+## 海报 <a id="poster"></a>
 
 ### Sci-Fi Movie Poster
 
@@ -133,7 +145,7 @@
 
 > 一个创意动漫海报，主题是科幻电影宣传，包含机器人和太空船，大胆的字体设计，荧光色调，吸引眼球。
 
-## 艺术创作 <a id="art"></a>
+## 艺术创意 <a id="art"></a>
 
 ### Abstract Art Composition
 
@@ -235,7 +247,25 @@
 
 > Infographic for a product using Nano-Banana technology, with specs, comparisons, and user benefits illustrated.
 
-## 建筑 / 室内 <a id="architecture"></a>
+### Astronaut Action Figure
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png" width="400" />
+
+> A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.
+
+### Outfit Decomposition Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="400" />
+
+> Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.
+
+### Backpack Gear Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="400" />
+
+> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
+
+## 建筑 <a id="architecture"></a>
 
 ### Modern Skyscraper Design
 
@@ -335,7 +365,13 @@
 
 > Assortment of colorful pastries and cakes on a wooden board, detailed textures and icing, nano-banana
 
-## 漫画 / 故事板 <a id="comic"></a>
+### Meal Ingredients Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="400" />
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+
+## 漫画 <a id="comic"></a>
 
 ### Superhero Comic Panel
 
@@ -385,7 +421,7 @@
 
 > 一个漫画面板序列，显示角色高速移动战斗，强烈的动态线条，阴影效果，灵感来自《死神》，高冲击力视觉。
 
-## APP / 网页设计 <a id="ui"></a>
+## UI 设计 <a id="ui"></a>
 
 ### Mobile App UI Design
 
@@ -505,7 +541,7 @@
 
 > 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
 
-## 个人资料 / 头像 <a id="avatar"></a>
+## 头像 <a id="avatar"></a>
 
 ### Futuristic Warrior Avatar
 
@@ -541,7 +577,7 @@
 
 > 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
 
-## YouTube 缩略图 <a id="thumbnail"></a>
+## 视频封面 <a id="thumbnail"></a>
 
 ### Tech Review Thumbnail
 
@@ -573,13 +609,52 @@
 
 > YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
 
+## 图生图 / 图片拆解 <a id="image-to-image"></a>
+
+这些提示词需要配合参考图片使用。上传图片后使用以下提示词进行拆解或转换。
+
+### 穿搭平铺拆解
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_8d9276010009401b9423e508876abc4c_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="300" /> |
+
+> 将这套穿搭拆解为平铺展示图，每件单品整齐分开排列在白色背景上。
+>
+> *Original: Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.*
+
+### 美食食材拆解
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_5eec0c6c75694f0d904567f8baf9e35d_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="300" /> |
+
+> 将这道菜拆解为各个食材，每种食材整齐分开放在干净白色表面上。平铺美食摄影。
+>
+> *Original: Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.*
+
+### 背包装备拆解
+
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260416/tkimage_1984dca12a874931a0716b6ec39719cc_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="300" /> |
+
+> 将这个背包拆解为各个装备物品，整齐排列。俯拍平铺摄影。
+>
+> *Original: Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.*
+
 ---
 
-## 许可证
+## Contributing
+
+Contributions welcome!
+
+## License
 
 MIT
 
-## 链接
+## Links
 
 - [TikTomato](https://tiktomato.com)
-- [Nano Banana 提示词](https://tiktomato.com/zh/prompts/nano-banana)
+- [Nano Banana PRO](https://tiktomato.com/model/nano-banana-pro)
+- [Nano Banana Prompts](https://tiktomato.com/prompts/nano-banana) — Browse & generate online

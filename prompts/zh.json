@@ -1054,5 +1054,47 @@
     "images": [
       "https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png"
     ]
+  },
+  {
+    "id": "nb-126",
+    "title": "穿搭平铺拆解",
+    "prompt": "将这套穿搭拆解为平铺展示图，每件单品整齐分开排列在白色背景上。",
+    "prompt_ori": "Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.",
+    "category": "product",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_8d9276010009401b9423e508876abc4c_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png"
+    ]
+  },
+  {
+    "id": "nb-127",
+    "title": "美食食材拆解",
+    "prompt": "将这道菜拆解为各个食材，每种食材整齐分开放在干净白色表面上。平铺美食摄影。",
+    "prompt_ori": "Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.",
+    "category": "food",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_5eec0c6c75694f0d904567f8baf9e35d_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png"
+    ]
+  },
+  {
+    "id": "nb-128",
+    "title": "背包装备拆解",
+    "prompt": "将这个背包拆解为各个装备物品，整齐排列。俯拍平铺摄影。",
+    "prompt_ori": "Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.",
+    "category": "product",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_1984dca12a874931a0716b6ec39719cc_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png"
+    ]
   }
 ]

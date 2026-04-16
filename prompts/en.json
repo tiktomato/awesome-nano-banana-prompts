@@ -1054,5 +1054,47 @@
     "images": [
       "https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png"
     ]
+  },
+  {
+    "id": "nb-126",
+    "title": "Outfit Flat Lay Knolling",
+    "prompt": "Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.",
+    "prompt_ori": "Decompose this outfit into a flat lay knolling image. Separate each item neatly on white background.",
+    "category": "product",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_8d9276010009401b9423e508876abc4c_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png"
+    ]
+  },
+  {
+    "id": "nb-127",
+    "title": "Meal Ingredients Decomposition",
+    "prompt": "Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.",
+    "prompt_ori": "Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.",
+    "category": "food",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_5eec0c6c75694f0d904567f8baf9e35d_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png"
+    ]
+  },
+  {
+    "id": "nb-128",
+    "title": "Backpack Gear Knolling",
+    "prompt": "Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.",
+    "prompt_ori": "Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.",
+    "category": "product",
+    "type": "image-to-image",
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260416/tkimage_1984dca12a874931a0716b6ec39719cc_0.webp"
+    ],
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png"
+    ]
   }
 ]
