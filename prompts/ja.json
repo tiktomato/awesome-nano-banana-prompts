@@ -1024,5 +1024,35 @@
     "images": [
       "https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png"
     ]
+  },
+  {
+    "id": "na-123",
+    "title": "Outfit Decomposition Knolling",
+    "prompt": "Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.",
+    "prompt_ori": "Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.",
+    "category": "product",
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png"
+    ]
+  },
+  {
+    "id": "na-124",
+    "title": "Meal Ingredients Decomposition",
+    "prompt": "Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.",
+    "prompt_ori": "Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.",
+    "category": "food",
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png"
+    ]
+  },
+  {
+    "id": "na-125",
+    "title": "Backpack Gear Decomposition",
+    "prompt": "Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.",
+    "prompt_ori": "Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.",
+    "category": "product",
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png"
+    ]
   }
 ]
