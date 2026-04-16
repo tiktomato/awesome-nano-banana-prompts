@@ -1004,5 +1004,25 @@
     "prompt_ori": "一个动漫风的UI界面设计，如菜单按钮带有动画效果，未来感图标，流畅交互，高质量视觉。",
     "category": "ui",
     "images": []
+  },
+  {
+    "id": "na-121",
+    "title": "Golden Retriever at Golden Hour",
+    "prompt": "A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail",
+    "prompt_ori": "A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail",
+    "category": "photography",
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png"
+    ]
+  },
+  {
+    "id": "na-122",
+    "title": "Astronaut Action Figure",
+    "prompt": "A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.",
+    "prompt_ori": "A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.",
+    "category": "product",
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png"
+    ]
   }
 ]
