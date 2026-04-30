@@ -2,7 +2,7 @@
 
 # Awesome Nano Banana Prompts
 
-> 128 curated prompts for Nano Banana AI image generation. Updated regularly.
+> 138 curated prompts for Nano Banana AI image generation. Updated regularly.
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-nano-banana-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-nano-banana-prompts)
 
@@ -10,100 +10,166 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/nano-banana) — no
 
 ## Categories
 
-- [Profile / Avatar](#avatar) (7)
+- [Photography](#photography) (18)
+- [Infographic](#infographic) (10)
+- [Profile / Avatar](#avatar) (9)
+- [Poster / Flyer](#poster) (13)
+- [Art / Creative](#art) (16)
 - [Social Media](#social) (8)
-- [Infographic](#infographic) (9)
 - [YouTube Thumbnail](#thumbnail) (7)
-- [Poster / Flyer](#poster) (12)
 - [Product Ad](#product) (12)
-- [Photography](#photography) (13)
 - [Food](#food) (11)
 - [Architecture](#architecture) (14)
-- [Art / Creative](#art) (15)
 - [Comic / Storyboard](#comic) (11)
 - [App / Web Design](#ui) (9)
 
 ---
 
-## Profile / Avatar <a id="avatar"></a>
+## Photography <a id="photography"></a>
 
-### Futuristic Warrior Avatar
+### Cinematic Billboard Portrait
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_2975d7b0-0302-4909-b832-8c2e454d525e_0.png" width="500" />
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-129_0.jpg" width="500" />
 
-> Generate a high-resolution avatar of a cyberpunk warrior with glowing eyes and metallic armor, in the style of nano-banana, detailed and realistic.
+> Ultra-realistic cinematic portrait of a man or woman (from uploaded image), messy hair covering part of the face, black leather jacket. Face lit by a massive digital billboard off-frame, casting shifting bright advertisement colors across the skin. Urban night background, modern city vibe.
 
-### Fantasy Elf Avatar
+— via [@ayzalnooor24521](https://x.com/ayzalnooor24521)
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_5ba55a95-32d3-45a1-97cf-219d562f7a15_0.png" width="500" />
+### Editorial Denim Portrait
 
-> Create a detailed avatar of an elf with pointed ears, magical aura, and enchanted forest background, in nano-banana style for fantasy realism.
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-130_0.jpg" width="500" />
 
-### 可爱头像设计
+> Ultra-realistic editorial portrait of a young woman with soft, slightly messy hair, wearing a faded blue oversized denim jacket layered over a plain white crop top. Natural sunlight hits from the side, casting sharp geometric shadows on a neutral wall. Relaxed posture, slightly tilted head, calm confident expression. Soft skin tones, minimal makeup. Shallow depth of field, muted tones, subtle film grain, 85mm lens, f/2.0. generate image
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_bd3edfb4-7399-448e-96e5-54f3d26f1b2a_0.png" width="500" />
+— via [@ayzalnooor24521](https://x.com/ayzalnooor24521)
 
-> 一个可爱的动漫风格女生头像，粉红色头发，微笑表情，大眼睛，背景是樱花树，4K 高清
+### Playful Cat Shoulder Portrait
 
-### Toy Avatar Design
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-132_0.jpg" width="500" />
 
-> Circular avatar of a fashion-forward action figure toy with accessories like sunglasses and hats, minimalist background, vector style, optimized for profiles, nano-banana AI.
+> Create a humorous, photorealistic portrait using the provided reference image as the primary source for all character details, ensuring the human subject strictly matches the reference in face, hairstyle, hair color, skin tone, clothing, accessories, makeup, and overall appearance without adding or changing anything, and the cat also matches the reference exactly in breed, fur pattern, color, and facial features; compose the scene with the cat sitting on the person's shoulder and playfully covering the person's eyes with its paws while winking and sticking out its tongue in a mischievous way, with the human reacting naturally (eyes closed or playful expression), rendered in ultra photorealistic studio quality with professional studio lighting, soft shadows, high contrast, a clean solid black background, ultra sharp high-detail textures for skin, fur, and fabric, centered portrait framing with natural proportions, and strict rules of no redesign, no added elements, no text, and no watermark.
 
-### 超级英雄头像
+— via [@oye_samia](https://x.com/oye_samia)
 
-> 圆形头像，一个超级英雄动作玩具穿戴时尚配件，简约风格，优化社交媒体使用，nano-banana AI。
+### Garden Anarkali Portrait
 
-### Creative Anime Avatar
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-135_0.jpg" width="500" />
 
-> A cute anime-style avatar of a young girl with pink hair, wearing a magical outfit, holding a glowing wand, soft pastel colors, expressive eyes, detailed accessories, perfect for social media profiles.
+> {
+  "image_generation_parameters": {
+    "subject": {
+      "identity": "Young South Asian woman",
+      "action": "Standing in a garden, holding and smelling a bouquet of fresh flowers",
+      "attributes": {
+        "facial_features": ["Healthy, glowing skin", "Creamy complexion", "Fresh-faced appearance", "Serene expression"],
+        "hair": "Long, dark, wavy hair with small white flowers tucked in",
+        "posture": "Graceful profile view"
+      }
+    },
+    "attire": {
+      "clothing_type": "Traditional Indian Anarkali suit",
+      "color": "Off-white / Cream",
+      "details": ["Delicate red floral embroidery", "Full-length flare", "Matching trousers"],
+      "footwear": "Barefoot (on grass)"
+    },
+    "environment": {
+      "location": "Lush green nature garden",
+      "background_elements": ["Dense tropical foliage", "Blooming shrubs", "Dappled sunlight"],
+      "foreground": "Soft, vibrant green grass lawn",
+      "lighting": "Natural golden hour sunlight, soft shadows"
+    },
+    "technical_specs": {
+      "resolution": "8K UHD",
+      "quality": ["High Definition", "Photorealistic", "Masterpiece"],
+      "camera_settings": {
+        "depth_of_field": "Slightly blurred background (bokeh)",
+        "focus": "Sharp focus on the subject and flowers"
+      }
+    }
+  }
+}
 
-### 创意头像设计
+— via [@RM_uii](https://x.com/RM_uii)
 
-> 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
+### Night Flash Dramatic Lighting
 
----
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-136_0.jpg" width="500" />
 
-## Social Media <a id="social"></a>
+> Apply a bold night-flash aesthetic to the uploaded photo while fully preserving every original detail of the photo unchanged except for lighting, glow, and color mood. Keep the nighttime environment dark, deep, and unlit, maintaining all existing shadows and silhouettes. Do not brighten or alter the background except for slightly enhancing existing point lights to keep the night atmosphere realistic. Illuminate the subject with a strong, warm, and direct front-facing flash. The flash should be drawn precisely to the face and upper body, making the subject the brightest element in the entire frame. Add diffused sunbeams striking the subject's skin, creating a glowing highlight on cheekbones, nose bridge, lips, and hair strands. Maintain clear separation between bright sunlit areas and soft, deep shadows to create a cinematic high-contrast mood.
 
-### Climate Change Post
+— via [@AiwithLariab](https://x.com/AiwithLariab)
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_da7f1782-9338-41f6-8609-cf55705f6d06_0.png" width="500" />
+### Mountain Sunset Photo
 
-> A social media graphic about the effects of climate change, including icons and statistics, created with nano-banana model, vibrant colors and modern design.
+<img src="https://storage.tiktomato.com/uploads/20260416/task_51414db9-91e3-4e49-b541-409ba0058440_0.png" width="500" />
 
-### Mental Health Graphic
+> Stunning landscape photography of snow-capped mountains at sunset, with vibrant golden hues and misty valleys, generated by nano-banana model.
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_0c0a4afb-0d66-4a0d-8d9d-03db42e0c37d_0.png" width="500" />
+### City Street Photography
 
-> Social media post on mental health awareness, with supportive icons, quotes, and calming colors, rendered via nano-banana for emotional impact.
+<img src="https://storage.tiktomato.com/uploads/20260416/task_066a191e-be26-4b04-bc38-2fcf8d903171_0.png" width="500" />
 
-### 社交媒体图形
+> Black and white photography of a bustling city street at night, with streetlights and shadows, high-contrast style using nano-banana.
 
-> A vibrant social media graphic for a product launch, featuring the product with text overlay, engaging fonts, for Instagram
+### 城市夜景拍摄
 
-### Social Media Figure
+<img src="https://storage.tiktomato.com/uploads/20260416/task_9771fb6c-3ade-4d1f-bc6d-22abfa97cfc0_0.png" width="500" />
 
-> Social media graphic of an action figure toy in trendy athletic fashion, interactive elements like speech bubbles, modern fonts, eye-catching design, nano-banana generated.
+> 拍摄一个繁华的城市夜景，霓虹灯和高楼大厦，河流反射灯光，相机：佳能 EOS R5，使用 f/2.8 光圈
 
-### 社交图形玩具
+### 自然景观摄影
 
-> 社交媒体图形，一个动作玩具在运动时尚中，互动元素如对话框，现代设计，nano-banana 生成。
+> A serene landscape photograph of a misty forest at dawn, with dew on leaves, captured with a wide-angle lens
 
-### Engagement Social Graphic
+### Stylish Superhero Portrait
 
-> Social media graphic using Nano-Banana for engagement, with interactive elements, hashtags, and colorful visuals.
+> A highly detailed portrait of a superhero action figure in fashionable streetwear, dynamic pose with wind-swept cape, realistic lighting, 8K resolution, nano-banana style.
 
-### Anime Social Media Post
+### Portrait in Armor
 
-> A stylish anime illustration for a social media post about creativity, showing an artist drawing in a studio, surrounded by sketches, modern aesthetic, soft lighting, motivational vibe.
+> 详细的动作玩具肖像，穿着时尚盔甲，动态姿态，逼真的纹理和光影，4K 分辨率，nano-banana 风格。
 
-### 动漫社交内容
+### Enhanced Photo Thumbnail
 
-> 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
+> YouTube thumbnail with stunning photography enhanced by Nano-Banana, including landscape scenes and dramatic lighting.
+
+### Mountain Dawn Scene
+
+> A majestic mountain range at dawn with mist and wildflowers, highly detailed, 8K resolution, nano-banana model
+
+### Ocean Storm Waves
+
+> Turbulent ocean waves crashing on rugged cliffs during a storm, dramatic lighting and foam, realistic details, nano-banana
+
+### Autumn Forest Trail
+
+> Serene forest path covered in autumn leaves with sunlight filtering through trees, peaceful and vibrant colors, nano-banana
+
+### Desert Oasis View
+
+> Lush green oasis in a vast desert with palm trees and clear blue water, high contrast and detailed textures, nano-banana
+
+### River Valley Panorama
+
+> Wide river valley with green fields and distant snow-capped mountains, golden hour lighting, ultra-realistic, nano-banana
+
+### Golden Retriever at Golden Hour
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png" width="500" />
+
+> A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail
 
 ---
 
 ## Infographic <a id="infographic"></a>
+
+### Childhood Memory Collage
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-131_0.jpg" width="500" />
+
+> An ultra-realistic cinematic collage showing a heartfelt connection between a man’s childhood and his present self, designed in a vertical 9:16 editorial layout. The collage is composed of multiple frames arranged in a soft scrapbook / magazine style: Top-left frame: A childhood photo (1997) of a young boy (age 4–6), standing outdoors at sunset, wearing a simple vintage shirt and shorts, looking slightly to the right with an innocent, joyful smile.Top-right frame: A present-day close-up portrait (2026) of the same man with neatly styled hair, light stubble or beard, wearing a casual dark shirt, with a calm and warm expression, looking gently toward the left. Center main frame (hero shot): The emotional interaction — the child version leaning in and kissing the adult man’s cheek, while the adult sits relaxed with his hands placed under his chin, smiling softly and looking toward the child.Detail frames (surrounding mini shots): Extreme close-up of the man’s eyes (soft, emotional gaze, sharp detail) Close-up of the child’s smiling face (pure innocence and happiness) Hands detail: adult man’s hands under chin, showing natural texture and subtle accessories (watch or bracelet) A soft-focus shot of a symbolic element (like a pink rose or small flower for emotion) Half-face split portrait blending child and adult (perfectly aligned composite showing transformation over time)Text elements: “1997” placed near childhood frames “2026” placed near present frames Optional small caption: “Then & Now” or “A Journey Through Time” Background & layout: Soft neutral studio background blended with faded vintage textures Subtle paper grain, film dust, and slight vignette for nostalgic effect Clean spacing with slightly overlapping frames to create a scrapbook aestheticLighting: Soft cinematic warm tones Childhood frames slightly faded / sepia-toned for nostalgia Present-day frames sharper with higher contrast and clarity Style & quality: Ultra-realistic, editorial collage, Vogue-inspired layout, emotional storytelling, soft shadows, depth of field, highly detailed skin texture, 8K resolution, photorealistic finish give me image
+
+— via [@de_mon010](https://x.com/de_mon010)
 
 ### Healthy Eating Info
 
@@ -145,41 +211,93 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/nano-banana) — no
 
 ---
 
-## YouTube Thumbnail <a id="thumbnail"></a>
+## Profile / Avatar <a id="avatar"></a>
 
-### Tech Review Thumbnail
+### Casual Bob Hair Portrait
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_79793376-72b6-4553-a9b8-2fff52b9ba41_0.png" width="500" />
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-133_0.jpg" width="500" />
 
-> YouTube thumbnail for a gadget review, featuring a sleek smartphone with explosive text overlays and dynamic lighting, in nano-banana style.
+> A hyper-realistic close-up portrait of a young woman (use my face) with warm, soft indoor lighting. The composition is a half-body shot (chest to head), with a slightly low and tilted camera angle, creating a casual, selfie-like feel. The main focus is on the face and hair. The face features bright, glass-like skin with realistic texture (no over-smoothing). Brown eyes with a calm, slightly melancholic expression, looking directly at the camera. Lips are natural pink with a berry tint in the inner area, slightly parted with a soft, moist finish. Makeup is a natural “no-makeup” look. Hair MUST be highly accurate: Short hair above the shoulders (short bob), with an uneven, choppy cut and soft layers. Natural dark brown color with subtle warm undertones. The texture looks soft and slightly messy, not overly neat. The front has long bangs, parted asymmetrically, with some strands falling over parts of the eyes and cheeks. Fine strands are scattered around the face, creating an effortless and natural effect. The ends of the hair curve slightly inward and outward irregularly, giving light volume and an airy feel. The hair is not too voluminous but has natural movement, as if gently blown by a breeze. Pose: head slightly tilted to the left, cheek resting on the left hand. The hand partially covers the cheek in a relaxed manner. Outfit: oversized long-sleeve t-shirt in dark gray with a subtle washed/tie-dye texture. Background: a minimal indoor setting with open shelves containing a few bottles and small objects, in warm beige tones. Shallow depth of field (soft background blur/bokeh). Lighting: soft ambient indoor light, no harsh shadows, natural warm tones. Style: ultra-realistic, high detail, natural skin texture, candid aesthetic, lifestyle photography, 8K resolution, 9:16.
 
-### 视频缩略图设计
+— via [@ChillaiKalan__](https://x.com/ChillaiKalan__)
 
-> 设计一个YouTube视频缩略图，主题是科技教程，显示笔记本电脑和代码界面，吸引眼球的颜色
+### Douyin Makeup Summer Look
 
-### Fashion Toy Thumbnail
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-137_0.jpg" width="500" />
 
-> Thumbnail image of an action figure toy modeling catwalk fashion, energetic pose with background blur, 1080p resolution, engaging for video previews, nano-banana AI.
+> Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, dewy skin, Douyin makeup, glossy lips, aegyosal, pink blush, grey contacts
 
-### 缩略图时尚玩具
+Expression / Pose:
+Soft relaxed pose sitting outdoors, chin slightly tilted, natural gaze
 
-> 视频缩略图，一个动作玩具在时装秀中摆姿势，背景模糊，1080p 分辨率，nano-banana AI。
+Camera:
+Old CCD camera, harsh flash, warm highlights, grain, slight blur
 
-### YouTube Tips Thumbnail
+Makeup:
+Glass skin, glossy lips, pink blush, aegyosal, grey contacts
 
-> Eye-catching YouTube thumbnail for a video on Nano-Banana AI tips, showing a stylized banana with nano elements and text 'Top Tips' overlay.
+Hair:
+Long brown hair, smooth with inward curls
 
-### Gaming Video Thumbnail
+Outfit:
+White crocher bucket hat with 3d flower design at the side, white  sleeveless lace crochet  top, minimal jewelry, summer aesthetic
 
-> Dynamic YouTube thumbnail for gaming video using Nano-Banana, with action poses, vibrant colors, and bold text overlay.
+Background:
+Stone wall, outdoor seating, umbrella shade, warm sunlight
 
-### Tech Review Thumbnail
+Composition:
+Close-up framing, soft depth, subject off-center
 
-> YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
+Negative prompt:
+plastic skin, stiff pose, unrealistic lighting
+
+— via [@Chryzleenprompt](https://x.com/Chryzleenprompt)
+
+### Futuristic Warrior Avatar
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_2975d7b0-0302-4909-b832-8c2e454d525e_0.png" width="500" />
+
+> Generate a high-resolution avatar of a cyberpunk warrior with glowing eyes and metallic armor, in the style of nano-banana, detailed and realistic.
+
+### Fantasy Elf Avatar
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_5ba55a95-32d3-45a1-97cf-219d562f7a15_0.png" width="500" />
+
+> Create a detailed avatar of an elf with pointed ears, magical aura, and enchanted forest background, in nano-banana style for fantasy realism.
+
+### 可爱头像设计
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_bd3edfb4-7399-448e-96e5-54f3d26f1b2a_0.png" width="500" />
+
+> 一个可爱的动漫风格女生头像，粉红色头发，微笑表情，大眼睛，背景是樱花树，4K 高清
+
+### Toy Avatar Design
+
+> Circular avatar of a fashion-forward action figure toy with accessories like sunglasses and hats, minimalist background, vector style, optimized for profiles, nano-banana AI.
+
+### 超级英雄头像
+
+> 圆形头像，一个超级英雄动作玩具穿戴时尚配件，简约风格，优化社交媒体使用，nano-banana AI。
+
+### Creative Anime Avatar
+
+> A cute anime-style avatar of a young girl with pink hair, wearing a magical outfit, holding a glowing wand, soft pastel colors, expressive eyes, detailed accessories, perfect for social media profiles.
+
+### 创意头像设计
+
+> 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
 
 ---
 
 ## Poster / Flyer <a id="poster"></a>
+
+### Golden Hour Celebrity Portrait
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-134_0.jpg" width="500" />
+
+> A high-quality, cinematic portrait in a 9:16 aspect ratio featuring Sam Altman and Elon Musk standing outdoors in front of a traditional, ornate dark wood structure with intricate green lattice windows, Sam Altman is in the foreground, looking directly at the camera while holding out a cigarette toward the viewer in a close-up, out-of-focus perspective. He is wearing a black jacket with the OpenAl logo. Elon Musk stands slightly behind him to the right, also looking at the camera, smoking a cigarette, wearing a black shirt with the xAl logo. The lighting is warm, golden hour sunlight, creating sharp shadows and realistic textures on their faces and clothing.
+
+— via [@harboriis](https://x.com/harboriis)
 
 ### Sci-Fi Movie Poster
 
@@ -232,6 +350,188 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/nano-banana) — no
 ### 创意海报艺术
 
 > 一个创意动漫海报，主题是科幻电影宣传，包含机器人和太空船，大胆的字体设计，荧光色调，吸引眼球。
+
+---
+
+## Art / Creative <a id="art"></a>
+
+### Literary Typewriter Diorama
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-138_0.jpg" width="500" />
+
+> function novel(AA){
+<instruction>
+Input A is a Famous Novel / Epic / Play / Literary Work.
+
+Analyze:
+- major themes, emotional tone, setting logic
+- symbolic objects and repeating motifs
+- narrative structure, protagonist tension, cultural setting
+- authorial voice translated into visual density and texture
+- period-authentic writing tools and material culture
+
+Goal:
+A "Typewriter Ribbon World."
+A giant vintage typewriter sits on a desk.
+The ink ribbon and strips of typed paper pour outward and rise into a detailed 3D environment from the book:
+cities, rooms, landscapes, characters, and symbols emerging from language itself.
+
+Rules:
+- text should become structure, not decorative clutter
+- letters and paragraphs must physically weave into walls, roads, weather, garments, or architecture
+- include marked-up drafts, fountain pen, spectacles, tea cup, torn pages, bookmarks
+- include a tiny version of the author typing at a miniature desk inside the scene
+- include a review clipping, banned-book notice, or publication headline tied to the work’s history
+- semantically infer period, geography, class signals, and symbolic details
+- lighting: lamp-lit study glow with soft archival shadows
+
+Output:
+ONE image, 4:5, literary-process diorama aesthetic
+</instruction>
+
+Output:
+2x2 grid, each grid with a different novel(AA) in the same genre output
+}
+
+— via [@Gdgtify](https://x.com/Gdgtify)
+
+### Abstract Art Composition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_8cccda1b-a1ad-4438-bacb-6a2c9836d025_0.png" width="500" />
+
+> An abstract art piece with swirling colors, geometric shapes, and fluid patterns, in the distinctive style of nano-banana for artistic depth.
+
+### Surreal Dream Art
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_832b4027-a3d3-4837-8938-fee64e0fed61_0.png" width="500" />
+
+> Surreal art depicting floating islands, dreamlike creatures, and ethereal landscapes, with intricate details via nano-banana model.
+
+### 抽象艺术画
+
+> 一幅抽象油画，使用鲜艳颜色和漩涡图案，表达喜悦情感，以杰克逊·波洛克风格
+
+### 水墨山水画
+
+> 一幅传统中国水墨画，描绘山水景致，竹林和雾气，艺术家风格：齐白石
+
+### Vintage Toy Fashion
+
+> An action figure toy of a 1950s robot wearing modern high-fashion outfits, standing in a urban street setting, photorealistic details, depth of field, nano-banana model.
+
+### Artistic Toy Portrait
+
+> Artistic rendering of a female action figure toy in bohemian fashion, watercolor style with soft edges, emotional expression, high detail, nano-banana model.
+
+### 艺术肖像玩具
+
+> 艺术风格的动作玩具肖像，波西米亚时尚，水彩效果，情感表达，高细节，nano-banana 模型。
+
+### Abstract Typography Art
+
+> Abstract typography art using Nano-Banana theme, with swirling letters in multiple colors, dynamic composition and high contrast.
+
+### Abstract Theme Poster
+
+> Abstract art poster created with Nano-Banana themes, featuring geometric shapes and fluid patterns in metallic tones.
+
+### Futuristic Anime City
+
+> A highly detailed anime illustration of a bustling futuristic city at night, with towering skyscrapers, neon lights, flying cars, and diverse characters in cyberpunk attire, in the style of Blade Runner and Ghost in the Shell, high resolution, vibrant colors.
+
+### Anime Fantasy Landscape
+
+> A breathtaking anime illustration of a mystical forest with ancient trees, glowing fairies, and a hidden waterfall, ethereal lighting, vibrant greens and blues, in the style of Studio Ghibli films, highly detailed.
+
+### Manga Character Portrait
+
+> A detailed manga portrait of a fierce warrior with scars and armor, intense expression, intricate line work, grayscale tones with red accents, high realism in facial details.
+
+### 动漫英雄插图
+
+> 一个详细的动漫插图，描绘一位英雄在战斗中挥舞武器，背景是燃烧的城市，动态动作，鲜艳色彩，灵感来源于《攻壳机动队》，高分辨率。
+
+### 动漫幻想世界
+
+> 一个梦幻的动漫插图，描绘一个浮空的岛屿，上面有奇幻生物和彩虹桥，细腻的纹理，明亮的色彩，Studio Ghibli风格。
+
+### 漫画角色细节
+
+> 一个详细的漫画角色插图，一个女忍者隐藏在森林中，复杂的服饰设计，精细的线条，黑暗氛围。
+
+---
+
+## Social Media <a id="social"></a>
+
+### Climate Change Post
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_da7f1782-9338-41f6-8609-cf55705f6d06_0.png" width="500" />
+
+> A social media graphic about the effects of climate change, including icons and statistics, created with nano-banana model, vibrant colors and modern design.
+
+### Mental Health Graphic
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_0c0a4afb-0d66-4a0d-8d9d-03db42e0c37d_0.png" width="500" />
+
+> Social media post on mental health awareness, with supportive icons, quotes, and calming colors, rendered via nano-banana for emotional impact.
+
+### 社交媒体图形
+
+> A vibrant social media graphic for a product launch, featuring the product with text overlay, engaging fonts, for Instagram
+
+### Social Media Figure
+
+> Social media graphic of an action figure toy in trendy athletic fashion, interactive elements like speech bubbles, modern fonts, eye-catching design, nano-banana generated.
+
+### 社交图形玩具
+
+> 社交媒体图形，一个动作玩具在运动时尚中，互动元素如对话框，现代设计，nano-banana 生成。
+
+### Engagement Social Graphic
+
+> Social media graphic using Nano-Banana for engagement, with interactive elements, hashtags, and colorful visuals.
+
+### Anime Social Media Post
+
+> A stylish anime illustration for a social media post about creativity, showing an artist drawing in a studio, surrounded by sketches, modern aesthetic, soft lighting, motivational vibe.
+
+### 动漫社交内容
+
+> 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
+
+---
+
+## YouTube Thumbnail <a id="thumbnail"></a>
+
+### Tech Review Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_79793376-72b6-4553-a9b8-2fff52b9ba41_0.png" width="500" />
+
+> YouTube thumbnail for a gadget review, featuring a sleek smartphone with explosive text overlays and dynamic lighting, in nano-banana style.
+
+### 视频缩略图设计
+
+> 设计一个YouTube视频缩略图，主题是科技教程，显示笔记本电脑和代码界面，吸引眼球的颜色
+
+### Fashion Toy Thumbnail
+
+> Thumbnail image of an action figure toy modeling catwalk fashion, energetic pose with background blur, 1080p resolution, engaging for video previews, nano-banana AI.
+
+### 缩略图时尚玩具
+
+> 视频缩略图，一个动作玩具在时装秀中摆姿势，背景模糊，1080p 分辨率，nano-banana AI。
+
+### YouTube Tips Thumbnail
+
+> Eye-catching YouTube thumbnail for a video on Nano-Banana AI tips, showing a stylized banana with nano elements and text 'Top Tips' overlay.
+
+### Gaming Video Thumbnail
+
+> Dynamic YouTube thumbnail for gaming video using Nano-Banana, with action poses, vibrant colors, and bold text overlay.
+
+### Tech Review Thumbnail
+
+> YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
 
 ---
 
@@ -300,70 +600,6 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/nano-banana) — no
 <img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="500" />
 
 > Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
-
----
-
-## Photography <a id="photography"></a>
-
-### Mountain Sunset Photo
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_51414db9-91e3-4e49-b541-409ba0058440_0.png" width="500" />
-
-> Stunning landscape photography of snow-capped mountains at sunset, with vibrant golden hues and misty valleys, generated by nano-banana model.
-
-### City Street Photography
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_066a191e-be26-4b04-bc38-2fcf8d903171_0.png" width="500" />
-
-> Black and white photography of a bustling city street at night, with streetlights and shadows, high-contrast style using nano-banana.
-
-### 城市夜景拍摄
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_9771fb6c-3ade-4d1f-bc6d-22abfa97cfc0_0.png" width="500" />
-
-> 拍摄一个繁华的城市夜景，霓虹灯和高楼大厦，河流反射灯光，相机：佳能 EOS R5，使用 f/2.8 光圈
-
-### 自然景观摄影
-
-> A serene landscape photograph of a misty forest at dawn, with dew on leaves, captured with a wide-angle lens
-
-### Stylish Superhero Portrait
-
-> A highly detailed portrait of a superhero action figure in fashionable streetwear, dynamic pose with wind-swept cape, realistic lighting, 8K resolution, nano-banana style.
-
-### Portrait in Armor
-
-> 详细的动作玩具肖像，穿着时尚盔甲，动态姿态，逼真的纹理和光影，4K 分辨率，nano-banana 风格。
-
-### Enhanced Photo Thumbnail
-
-> YouTube thumbnail with stunning photography enhanced by Nano-Banana, including landscape scenes and dramatic lighting.
-
-### Mountain Dawn Scene
-
-> A majestic mountain range at dawn with mist and wildflowers, highly detailed, 8K resolution, nano-banana model
-
-### Ocean Storm Waves
-
-> Turbulent ocean waves crashing on rugged cliffs during a storm, dramatic lighting and foam, realistic details, nano-banana
-
-### Autumn Forest Trail
-
-> Serene forest path covered in autumn leaves with sunlight filtering through trees, peaceful and vibrant colors, nano-banana
-
-### Desert Oasis View
-
-> Lush green oasis in a vast desert with palm trees and clear blue water, high contrast and detailed textures, nano-banana
-
-### River Valley Panorama
-
-> Wide river valley with green fields and distant snow-capped mountains, golden hour lighting, ultra-realistic, nano-banana
-
-### Golden Retriever at Golden Hour
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_d4c4ab01-08c7-440e-8c12-88ca24b64d95_0.png" width="500" />
-
-> A golden retriever puppy sitting in a field of wildflowers at golden hour, soft bokeh background, warm sunlight illuminating fur, photorealistic, Canon EOS R5 with 85mm lens, 4K detail
 
 ---
 
@@ -480,74 +716,6 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/nano-banana) — no
 ### 开放式办公室空间
 
 > 宽敞的开放式办公室，协作区域和自然光线，现代室内设计，nano-banana
-
----
-
-## Art / Creative <a id="art"></a>
-
-### Abstract Art Composition
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_8cccda1b-a1ad-4438-bacb-6a2c9836d025_0.png" width="500" />
-
-> An abstract art piece with swirling colors, geometric shapes, and fluid patterns, in the distinctive style of nano-banana for artistic depth.
-
-### Surreal Dream Art
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_832b4027-a3d3-4837-8938-fee64e0fed61_0.png" width="500" />
-
-> Surreal art depicting floating islands, dreamlike creatures, and ethereal landscapes, with intricate details via nano-banana model.
-
-### 抽象艺术画
-
-> 一幅抽象油画，使用鲜艳颜色和漩涡图案，表达喜悦情感，以杰克逊·波洛克风格
-
-### 水墨山水画
-
-> 一幅传统中国水墨画，描绘山水景致，竹林和雾气，艺术家风格：齐白石
-
-### Vintage Toy Fashion
-
-> An action figure toy of a 1950s robot wearing modern high-fashion outfits, standing in a urban street setting, photorealistic details, depth of field, nano-banana model.
-
-### Artistic Toy Portrait
-
-> Artistic rendering of a female action figure toy in bohemian fashion, watercolor style with soft edges, emotional expression, high detail, nano-banana model.
-
-### 艺术肖像玩具
-
-> 艺术风格的动作玩具肖像，波西米亚时尚，水彩效果，情感表达，高细节，nano-banana 模型。
-
-### Abstract Typography Art
-
-> Abstract typography art using Nano-Banana theme, with swirling letters in multiple colors, dynamic composition and high contrast.
-
-### Abstract Theme Poster
-
-> Abstract art poster created with Nano-Banana themes, featuring geometric shapes and fluid patterns in metallic tones.
-
-### Futuristic Anime City
-
-> A highly detailed anime illustration of a bustling futuristic city at night, with towering skyscrapers, neon lights, flying cars, and diverse characters in cyberpunk attire, in the style of Blade Runner and Ghost in the Shell, high resolution, vibrant colors.
-
-### Anime Fantasy Landscape
-
-> A breathtaking anime illustration of a mystical forest with ancient trees, glowing fairies, and a hidden waterfall, ethereal lighting, vibrant greens and blues, in the style of Studio Ghibli films, highly detailed.
-
-### Manga Character Portrait
-
-> A detailed manga portrait of a fierce warrior with scars and armor, intense expression, intricate line work, grayscale tones with red accents, high realism in facial details.
-
-### 动漫英雄插图
-
-> 一个详细的动漫插图，描绘一位英雄在战斗中挥舞武器，背景是燃烧的城市，动态动作，鲜艳色彩，灵感来源于《攻壳机动队》，高分辨率。
-
-### 动漫幻想世界
-
-> 一个梦幻的动漫插图，描绘一个浮空的岛屿，上面有奇幻生物和彩虹桥，细腻的纹理，明亮的色彩，Studio Ghibli风格。
-
-### 漫画角色细节
-
-> 一个详细的漫画角色插图，一个女忍者隐藏在森林中，复杂的服饰设计，精细的线条，黑暗氛围。
 
 ---
 

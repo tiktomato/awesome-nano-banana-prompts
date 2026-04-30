@@ -2,7 +2,7 @@
 
 # Nano Banana 提示词精选集
 
-> 128 条精选 Nano Banana AI 图片生成提示词，持续更新。
+> 138 条精选 Nano Banana AI 图片生成提示词，持续更新。
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-nano-banana-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-nano-banana-prompts)
 
@@ -10,300 +10,62 @@
 
 ## 分类
 
-- [头像](#avatar) (7)
+- [摄影](#photography) (18)
+- [信息图](#infographic) (10)
+- [头像](#avatar) (9)
+- [海报](#poster) (13)
+- [艺术创意](#art) (16)
 - [社交媒体](#social) (8)
-- [信息图](#infographic) (9)
 - [视频封面](#thumbnail) (7)
-- [海报](#poster) (12)
 - [产品广告](#product) (12)
-- [摄影](#photography) (13)
 - [美食](#food) (11)
 - [建筑](#architecture) (14)
-- [艺术创意](#art) (15)
 - [漫画](#comic) (11)
 - [UI 设计](#ui) (9)
 
 ---
 
-## 头像 <a id="avatar"></a>
-
-### Futuristic Warrior Avatar
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_2975d7b0-0302-4909-b832-8c2e454d525e_0.png" width="500" />
-
-> Generate a high-resolution avatar of a cyberpunk warrior with glowing eyes and metallic armor, in the style of nano-banana, detailed and realistic.
-
-### Fantasy Elf Avatar
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_5ba55a95-32d3-45a1-97cf-219d562f7a15_0.png" width="500" />
-
-> Create a detailed avatar of an elf with pointed ears, magical aura, and enchanted forest background, in nano-banana style for fantasy realism.
-
-### 可爱头像设计
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_bd3edfb4-7399-448e-96e5-54f3d26f1b2a_0.png" width="500" />
-
-> 一个可爱的动漫风格女生头像，粉红色头发，微笑表情，大眼睛，背景是樱花树，4K 高清
-
-### Toy Avatar Design
-
-> Circular avatar of a fashion-forward action figure toy with accessories like sunglasses and hats, minimalist background, vector style, optimized for profiles, nano-banana AI.
-
-### 超级英雄头像
-
-> 圆形头像，一个超级英雄动作玩具穿戴时尚配件，简约风格，优化社交媒体使用，nano-banana AI。
-
-### Creative Anime Avatar
-
-> A cute anime-style avatar of a young girl with pink hair, wearing a magical outfit, holding a glowing wand, soft pastel colors, expressive eyes, detailed accessories, perfect for social media profiles.
-
-### 创意头像设计
-
-> 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
-
----
-
-## 社交媒体 <a id="social"></a>
-
-### Climate Change Post
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_da7f1782-9338-41f6-8609-cf55705f6d06_0.png" width="500" />
-
-> A social media graphic about the effects of climate change, including icons and statistics, created with nano-banana model, vibrant colors and modern design.
-
-### Mental Health Graphic
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_0c0a4afb-0d66-4a0d-8d9d-03db42e0c37d_0.png" width="500" />
-
-> Social media post on mental health awareness, with supportive icons, quotes, and calming colors, rendered via nano-banana for emotional impact.
-
-### 社交媒体图形
-
-> A vibrant social media graphic for a product launch, featuring the product with text overlay, engaging fonts, for Instagram
-
-### Social Media Figure
-
-> Social media graphic of an action figure toy in trendy athletic fashion, interactive elements like speech bubbles, modern fonts, eye-catching design, nano-banana generated.
-
-### 社交图形玩具
-
-> 社交媒体图形，一个动作玩具在运动时尚中，互动元素如对话框，现代设计，nano-banana 生成。
-
-### Engagement Social Graphic
-
-> Social media graphic using Nano-Banana for engagement, with interactive elements, hashtags, and colorful visuals.
-
-### Anime Social Media Post
-
-> A stylish anime illustration for a social media post about creativity, showing an artist drawing in a studio, surrounded by sketches, modern aesthetic, soft lighting, motivational vibe.
-
-### 动漫社交内容
-
-> 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
-
----
-
-## 信息图 <a id="infographic"></a>
-
-### Healthy Eating Info
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_d8607255-eb1b-4eef-a68f-e7f47c9ac8f1_0.png" width="500" />
-
-> An infographic on the benefits of fruits and vegetables, with charts, icons, and nutritional facts, generated using nano-banana for high clarity and appeal.
-
-### 健康信息图表
-
-> 创建一个健康饮食的信息图表，展示各种水果和蔬菜的营养价值，使用图标和图例，彩色设计
-
-### Elegant Toy Infographic
-
-> Infographic showing an action figure toy evolving through fashion eras, timelines and icons, informative layout, pastel colors, nano-banana AI.
-
-### AI Features Infographic
-
-> Detailed infographic about Nano-Banana model features, including icons, charts, and statistics in blue tones, with clear labels and modern layout.
-
-### Education AI Infographic
-
-> Infographic explaining machine learning basics with Nano-Banana examples, using simple icons, flowcharts, and engaging visuals.
-
-### Medical AI Infographic
-
-> 用纳米香蕉模型创建的信息图，展示AI在医疗中的应用，包括图表、图标和统计数据，颜色以蓝绿色为主。
-
-### Sustainable Architecture Info
-
-> Infographic on sustainable architecture using Nano-Banana, with building designs, stats, and eco-friendly icons in green palette.
-
-### Anime Style Infographic
-
-> An engaging infographic in anime style explaining the history of manga, with illustrated timelines, character icons, and fun facts, clean layout, colorful icons, educational yet entertaining.
-
-### 动漫信息图表
-
-> 一个以动漫风格设计的信息图表，解释日本文化历史，包含图标和时间线，活泼的颜色，教育性插图。
-
----
-
-## 视频封面 <a id="thumbnail"></a>
-
-### Tech Review Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_79793376-72b6-4553-a9b8-2fff52b9ba41_0.png" width="500" />
-
-> YouTube thumbnail for a gadget review, featuring a sleek smartphone with explosive text overlays and dynamic lighting, in nano-banana style.
-
-### 视频缩略图设计
-
-> 设计一个YouTube视频缩略图，主题是科技教程，显示笔记本电脑和代码界面，吸引眼球的颜色
-
-### Fashion Toy Thumbnail
-
-> Thumbnail image of an action figure toy modeling catwalk fashion, energetic pose with background blur, 1080p resolution, engaging for video previews, nano-banana AI.
-
-### 缩略图时尚玩具
-
-> 视频缩略图，一个动作玩具在时装秀中摆姿势，背景模糊，1080p 分辨率，nano-banana AI。
-
-### YouTube Tips Thumbnail
-
-> Eye-catching YouTube thumbnail for a video on Nano-Banana AI tips, showing a stylized banana with nano elements and text 'Top Tips' overlay.
-
-### Gaming Video Thumbnail
-
-> Dynamic YouTube thumbnail for gaming video using Nano-Banana, with action poses, vibrant colors, and bold text overlay.
-
-### Tech Review Thumbnail
-
-> YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
-
----
-
-## 海报 <a id="poster"></a>
-
-### Sci-Fi Movie Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_86bcad21-c51d-4598-9486-99e197527434_0.png" width="500" />
-
-> Poster for a science fiction film titled 'Nano Odyssey', with aliens, spaceships, and futuristic cityscapes, high-detail rendering via nano-banana.
-
-### Music Festival Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_82ed0a23-88cd-4424-8ef8-dd3ae509dadd_0.png" width="500" />
-
-> Poster for an outdoor music festival, featuring band logos, dates, and crowd scenes, vibrant and energetic design with nano-banana.
-
-### 环保海报创作
-
-> 设计一个环保主题海报，展示地球和绿色植物，文字：保护环境从我做起，艺术风格：印象派
-
-### 科幻电影海报
-
-> A dramatic movie poster for a sci-fi film, with spaceship and aliens, bold title text, in the style of Hollywood posters
-
-### Dynamic Figure Poster
-
-> Poster design featuring an action figure toy in avant-garde fashion, bold colors and dramatic shadows, high contrast, suitable for social media promotion, nano-banana generated.
-
-### 玩具时尚海报
-
-> 一个动作玩具的海报设计，展示现代时尚服饰，鲜艳色彩和抽象背景，适合宣传，nano-banana 模型生成。
-
-### Bold Typography Poster
-
-> A minimalist poster with bold sans-serif typography saying 'Innovate with Nano-Banana', in red and black colors, high resolution, detailed design.
-
-### Vintage Promo Poster
-
-> Vintage-style poster promoting Nano-Banana, with retro fonts, illustrations of tech gadgets, and a call-to-action in warm colors.
-
-### Tool Ad Poster
-
-> Poster advertising Nano-Banana AI tool, with product screenshots, benefits listed in bullet points, and futuristic background.
-
-### Chinese Font Poster
-
-> 一个使用粗体中文字体的海报，主题是'纳米香蕉AI革命'，配以科技元素和高对比度设计。
-
-### Creative Poster Design
-
-> An creative anime-inspired poster for a fantasy festival, featuring mythical creatures and heroes, bold typography, vibrant colors, high-energy composition, suitable for event promotion.
-
-### 创意海报艺术
-
-> 一个创意动漫海报，主题是科幻电影宣传，包含机器人和太空船，大胆的字体设计，荧光色调，吸引眼球。
-
----
-
-## 产品广告 <a id="product"></a>
-
-### Smartwatch Product Image
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_174f82a8-5c05-410d-afc8-4c8c43ae1142_0.png" width="500" />
-
-> Photorealistic image of a high-tech smartwatch on a user's wrist, highlighting features like heart rate monitor, in nano-banana style with sharp details.
-
-### Eco Bottle Product
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_ab522707-2566-435e-b2fc-bc21924f4b99_0.png" width="500" />
-
-> Image of an eco-friendly reusable water bottle, with environmental icons and natural settings, photorealistic details from nano-banana.
-
-### 科技产品渲染
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_2c78217e-9cd4-4c0c-8c59-29c9edaa7041_0.png" width="500" />
-
-> 一个未来主义智能手机产品渲染，透明屏幕和金属边框，白背景，高清细节
-
-### 时尚产品照片
-
-> 拍摄一个时尚手袋产品照，皮革材质，优雅模特手持，工作室灯光，高端品牌风格
-
-### Product Toy Photo
-
-> Product shot of an action figure toy dressed in luxury fashion brands, on a white background with soft lighting, high fidelity, for e-commerce listings, nano-banana style.
-
-### 产品展示玩具
-
-> 产品照片，一个动作玩具身着高档时尚服装，白背景柔和光线，高保真细节，nano-banana 风格。
-
-### Product Tech Infographic
-
-> Infographic for a product using Nano-Banana technology, with specs, comparisons, and user benefits illustrated.
-
-### Astronaut Action Figure
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png" width="500" />
-
-> A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.
-
-### Outfit Decomposition Knolling
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="500" />
-
-> Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.
-
-### Backpack Gear Decomposition
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="500" />
-
-> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
-
-### 穿搭平铺拆解
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="500" />
-
-> 将这套穿搭拆解为平铺展示图，每件单品整齐分开排列在白色背景上。
-
-### 背包装备拆解
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="500" />
-
-> 将这个背包拆解为各个装备物品，整齐排列。俯拍平铺摄影。
-
----
-
 ## 摄影 <a id="photography"></a>
+
+### 电影感广告牌肖像
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-129_0.jpg" width="500" />
+
+> Ultra-realistic cinematic portrait of a man or woman (from uploaded image), messy hair covering part of the face, black leather jacket. Face lit by a massive digital billboard off-frame, casting shifting bright advertisement colors across the skin. Urban night background, modern city vibe.
+
+— 来源 [@ayzalnooor24521](https://x.com/ayzalnooor24521)
+
+### 编辑牛仔肖像
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-130_0.jpg" width="500" />
+
+> Ultra-realistic editorial portrait of a young woman with soft, slightly messy hair, wearing a faded blue oversized denim jacket layered over a plain white crop top. Natural sunlight hits from the side, casting sharp geometric shadows on a neutral wall. Relaxed posture, slightly tilted head, calm confident expression. Soft skin tones, minimal makeup. Shallow depth of field, muted tones, subtle film grain, 85mm lens, f/2.0. generate image
+
+— 来源 [@ayzalnooor24521](https://x.com/ayzalnooor24521)
+
+### 俏皮猫咪肩膀肖像
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-132_0.jpg" width="500" />
+
+> 使用提供的参考图像作为所有角色细节的主要来源，创建一幅幽默的、照片级真实的肖像，确保人类主体在面部、发型、头发颜色、肤色、服装、配饰、妆容和整体外观上严格匹配参考图像，不添加或改变任何内容，且猫咪也在品种、毛发图案、颜色和面部特征上完全匹配参考；构图为猫咪坐在人物肩膀上，顽皮地用爪子遮住人物眼睛，同时眨眼并吐舌头做出调皮的样子，人类自然反应（闭眼或俏皮表情），以超照片级真实的工作室品质渲染，专业工作室灯光，柔和阴影，高对比度，干净的纯黑色背景，皮肤、毛发和织物的超锐利高细节纹理，居中肖像构图与自然比例，并严格遵守无重新设计、无添加元素、无文字和无水印的规则。
+
+— 来源 [@oye_samia](https://x.com/oye_samia)
+
+### 花园Anarkali肖像
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-135_0.jpg" width="500" />
+
+> {"image_generation_parameters":{"subject":{"identity":"年轻南亚女性","action":"站在花园中，手持并闻着一束新鲜花朵","attributes":{"facial_features":["健康有光泽的肌肤","奶油色肤色","清新面容","宁静的表情"],"hair":"长而深色的波浪发，夹着小白花","posture":"优雅的侧面视图"}},"attire":{"clothing_type":"Traditional Indian Anarkali suit","color":"Off-white / Cream","details":["精致的红色花卉刺绣","全长喇叭裙摆","配套裤子"],"footwear":"Barefoot (on grass)"},"environment":{"location":"茂密的绿色自然花园","background_elements":["茂密热带植物","盛开的灌木","斑驳的阳光"],"foreground":"柔软鲜艳的绿草坪","lighting":"自然金色时阳光，柔和阴影"},"technical_specs":{"resolution":"8K UHD","quality":["High Definition","Photorealistic","Masterpiece"],"camera_settings":{"depth_of_field":"Slightly blurred background (bokeh)","focus":"Sharp focus on the subject and flowers"}}}}
+
+— 来源 [@RM_uii](https://x.com/RM_uii)
+
+### 夜闪戏剧光效
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-136_0.jpg" width="500" />
+
+> 为上传的照片应用大胆的夜闪美学，在完全保留照片所有原始细节不变的前提下，仅调整光效、辉光和色彩氛围。保持夜间环境黑暗、深邃且未被照亮，维持所有现有阴影和剪影。除轻微增强现有点光源以保持夜间氛围真实外，不要提亮或改变背景。用强烈、温暖且直接的正面闪光照亮主体。闪光应精确投射在面部和上半身，使主体成为整个画面中最亮的元素。添加漫射的阳光光束照射主体皮肤，在颧骨、鼻梁、嘴唇和发丝上创造发光高光。保持明亮的阳光区域与柔和深沉阴影之间的清晰分离，以营造电影般的高对比度氛围。
+
+— 来源 [@AiwithLariab](https://x.com/AiwithLariab)
 
 ### Mountain Sunset Photo
 
@@ -367,123 +129,239 @@
 
 ---
 
-## 美食 <a id="food"></a>
+## 信息图 <a id="infographic"></a>
 
-### Pizza Food Image
+### 童年记忆拼贴
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_131d5152-4900-4e4a-a89a-59aec5c1433b_0.png" width="500" />
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-131_0.jpg" width="500" />
 
-> A mouthwatering image of a gourmet pizza with melted cheese, fresh vegetables, and pepperoni, realistic textures and lighting using nano-banana.
+> 一个超现实主义电影感拼贴，展现一个男人童年与现在自我的深情连接，以竖版9:16编辑布局设计。拼贴由多帧画面以柔和的剪贴簿/杂志风格排列：左上帧：一张1997年的童年照片（4-6岁小男孩），户外日落中站立，穿着简约复古衬衫和短裤，微微看向右方，带着天真快乐的笑容。右上帧：2026年现在的特写肖像（同一个男人），头发整齐造型，轻微胡须或络腮胡，穿着休闲深色衬衫，表情平静温暖，温柔地看向左方。中心主帧（英雄镜头）：情感互动——儿童版本倾身亲吻成年男人的脸颊，而成年男人放松坐着，双手托着下巴，温柔微笑地看着孩子。细节帧（周围小镜头）：男人眼睛的极端特写（柔和情感目光，锐利细节）、孩子微笑脸部的特写（纯真与幸福）、双手细节：成年男人托着下巴的手，展现自然纹理和细微配饰（手表或手链）、一个象征元素的柔焦镜头（例如粉色玫瑰或小花代表情感）、半脸分割肖像融合儿童与成人（完美对齐的复合图像展现时光转变）。文字元素：“1997”置于童年帧附近 “2026”置于现在帧附近 可选小标题：“Then & Now” 或 “A Journey Through Time”。背景与布局：柔和中性工作室背景融合褪色复古纹理，细微纸张颗粒、胶片尘埃和轻微暗角营造怀旧效果，干净间距与轻微重叠的帧创造剪贴簿美学。灯光：柔和电影感暖调，童年帧略微褪色/棕褐色调以增强怀旧，现在帧更锐利并具有更高对比度和清晰度。风格与品质：Ultra-realistic, editorial collage, Vogue-inspired layout, emotional storytelling, soft shadows, depth of field, highly detailed skin texture, 8K resolution, photorealistic finish give me image
 
-### 美味甜点照
+— 来源 [@de_mon010](https://x.com/de_mon010)
 
-> 一个巧克力熔岩蛋糕特写照片，中心流淌的巧克力，配新鲜浆果，乡村风格盘子，自然光线
+### Healthy Eating Info
 
-### 中式菜肴拍摄
+<img src="https://storage.tiktomato.com/uploads/20260416/task_d8607255-eb1b-4eef-a68f-e7f47c9ac8f1_0.png" width="500" />
 
-> 一个热气腾腾的宫保鸡丁照片，配以米饭和蔬菜，真实厨房场景，诱人光线
+> An infographic on the benefits of fruits and vegetables, with charts, icons, and nutritional facts, generated using nano-banana for high clarity and appeal.
 
-### Exotic Fruits Poster
+### 健康信息图表
 
-> Poster featuring Nano-Banana generated food photography of exotic fruits, with vibrant colors and appetizing composition.
+> 创建一个健康饮食的信息图表，展示各种水果和蔬菜的营养价值，使用图标和图例，彩色设计
 
-### Tropical Fruit Platter
+### Elegant Toy Infographic
 
-> A vibrant platter of fresh tropical fruits like mango and pineapple, macro photography with dew drops, nano-banana
+> Infographic showing an action figure toy evolving through fashion eras, timelines and icons, informative layout, pastel colors, nano-banana AI.
 
-### Tomato Soup Bowl
+### AI Features Infographic
 
-> Steaming bowl of homemade tomato soup with fresh herbs and crusty bread, appetizing close-up, nano-banana
+> Detailed infographic about Nano-Banana model features, including icons, charts, and statistics in blue tones, with clear labels and modern layout.
 
-### Gourmet Cheeseburger
+### Education AI Infographic
 
-> Juicy cheeseburger with melted cheese, fries, and salad, high-resolution food styling, nano-banana
+> Infographic explaining machine learning basics with Nano-Banana examples, using simple icons, flowcharts, and engaging visuals.
 
-### Healthy Green Salad
+### Medical AI Infographic
 
-> Fresh mixed greens salad with vegetables and vinaigrette, natural lighting and crisp details, nano-banana
+> 用纳米香蕉模型创建的信息图，展示AI在医疗中的应用，包括图表、图标和统计数据，颜色以蓝绿色为主。
 
-### Pastries Assortment
+### Sustainable Architecture Info
 
-> Assortment of colorful pastries and cakes on a wooden board, detailed textures and icing, nano-banana
+> Infographic on sustainable architecture using Nano-Banana, with building designs, stats, and eco-friendly icons in green palette.
 
-### Meal Ingredients Decomposition
+### Anime Style Infographic
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="500" />
+> An engaging infographic in anime style explaining the history of manga, with illustrated timelines, character icons, and fun facts, clean layout, colorful icons, educational yet entertaining.
 
-> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+### 动漫信息图表
 
-### 美食食材拆解
-
-<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="500" />
-
-> 将这道菜拆解为各个食材，每种食材整齐分开放在干净白色表面上。平铺美食摄影。
+> 一个以动漫风格设计的信息图表，解释日本文化历史，包含图标和时间线，活泼的颜色，教育性插图。
 
 ---
 
-## 建筑 <a id="architecture"></a>
+## 头像 <a id="avatar"></a>
 
-### Modern Skyscraper Design
+### 休闲波波头肖像
 
-<img src="https://storage.tiktomato.com/uploads/20260416/task_843d3333-720e-4ed9-a558-25fdde58d50b_0.png" width="500" />
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-133_0.jpg" width="500" />
 
-> Render of a futuristic glass skyscraper in an urban environment, with innovative architecture and daylight reflections, via nano-banana.
+> 一位超现实主义特写肖像的年轻女子（use my face），温暖柔和的室内灯光。构图为半身镜头（胸部到头部），略低且倾斜的相机角度，营造出随意的自拍感。主要焦点在脸部和头发。脸部呈现明亮如玻璃般的皮肤，带有真实纹理（no over-smoothing）。棕色眼睛带着平静、略带忧郁的表情，直视镜头。嘴唇为自然的粉色，内侧带有浆果色调，微微张开并带有柔软湿润的质感。妆容是自然的“no-makeup”妆。头发必须高度准确：及肩以上的短发（short bob），不均匀的碎剪造型和柔软层次。自然的深棕色带有细微温暖底色。质感柔软且略显凌乱，不过度整齐。前面有长刘海，不对称分开，一些发丝垂落在眼睛和脸颊部分。细碎发丝散落在脸部周围，营造出轻松自然的效果。发尾不规则地微微向内向外弯曲，带来轻盈的体积感和通透感。头发不过于蓬松，但具有自然动感，仿佛被微风轻轻吹拂。姿势：头部微微向左倾斜，脸颊靠在左手手上。手以放松的方式部分遮盖脸颊。服装：深灰色oversized长袖T恤，带有细微水洗/扎染纹理。背景：简约室内环境，开放式搁架上摆放着几个瓶子和小型物件，温暖的米色调。浅景深（柔和背景虚化/bokeh）。灯光：柔和的环境室内光，无 harsh 阴影，自然温暖色调。风格：ultra-realistic，高细节，自然皮肤纹理，candid aesthetic，lifestyle photography，8K resolution，9:16。
 
-### 现代建筑图
+— 来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__)
 
-> 一个未来主义建筑设计，玻璃幕墙和曲线结构，位于城市中心，蓝天白云背景，3D 渲染
+### 抖音妆容夏季造型
 
-### 历史建筑渲染
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-137_0.jpg" width="500" />
 
-> A detailed architectural rendering of an ancient Roman colosseum at sunset, with crowds and historical accuracy
+> Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, dewy skin, Douyin makeup, glossy lips, aegyosal, pink blush, grey contacts
 
-### Futuristic Architecture Poster
+Expression / Pose:
+Soft relaxed pose sitting outdoors, chin slightly tilted, natural gaze
 
-> Poster of futuristic architecture designed with Nano-Banana, showcasing skyscrapers and innovative structures in neon lights.
+Camera:
+Old CCD camera, harsh flash, warm highlights, grain, slight blur
 
-### Modern Office Building
+Makeup:
+Glass skin, glossy lips, pink blush, aegyosal, grey contacts
 
-> Sleek glass facade of a modern office skyscraper in an urban setting, detailed architectural rendering, nano-banana
+Hair:
+Long brown hair, smooth with inward curls
 
-### Ancient Temple Ruins
+Outfit:
+White crocher bucket hat with 3d flower design at the side, white sleeveless lace crochet top, minimal jewelry, summer aesthetic
 
-> Ruins of an ancient Greek temple with marble columns and statues, historical accuracy and weathering effects, nano-banana
+Background:
+Stone wall, outdoor seating, umbrella shade, warm sunlight
 
-### Futuristic Cityscape
+Composition:
+Close-up framing, soft depth, subject off-center
 
-> High-tech futuristic city with neon lights and flying vehicles, intricate architectural details, nano-banana
+Negative prompt:
+plastic skin, stiff pose, unrealistic lighting
 
-### Victorian House Exterior
+— 来源 [@Chryzleenprompt](https://x.com/Chryzleenprompt)
 
-> Elegant Victorian-style house with ornate details and a manicured garden, realistic 3D rendering, nano-banana
+### Futuristic Warrior Avatar
 
-### Suspension Bridge Night
+<img src="https://storage.tiktomato.com/uploads/20260416/task_2975d7b0-0302-4909-b832-8c2e454d525e_0.png" width="500" />
 
-> Iconic suspension bridge over a river at night with illuminated lights and city backdrop, nano-banana
+> Generate a high-resolution avatar of a cyberpunk warrior with glowing eyes and metallic armor, in the style of nano-banana, detailed and realistic.
 
-### 简约客厅设计
+### Fantasy Elf Avatar
 
-> 现代简约风格的客厅，白色家具和大窗户，自然光线，详细室内设计，nano-banana 模型
+<img src="https://storage.tiktomato.com/uploads/20260416/task_5ba55a95-32d3-45a1-97cf-219d562f7a15_0.png" width="500" />
 
-### 奢华厨房布局
+> Create a detailed avatar of an elf with pointed ears, magical aura, and enchanted forest background, in nano-banana style for fantasy realism.
 
-> 高端厨房设计，大理石台面和不锈钢家电，明亮照明和现代元素，nano-banana
+### 可爱头像设计
 
-### 温馨卧室布置
+<img src="https://storage.tiktomato.com/uploads/20260416/task_bd3edfb4-7399-448e-96e5-54f3d26f1b2a_0.png" width="500" />
 
-> 温暖的卧室，木制床和柔和灯光，舒适的室内装饰细节，nano-banana
+> 一个可爱的动漫风格女生头像，粉红色头发，微笑表情，大眼睛，背景是樱花树，4K 高清
 
-### 艺术装饰浴室
+### Toy Avatar Design
 
-> 艺术装饰风格的浴室，几何瓷砖和金色配件，优雅设计，nano-banana
+> Circular avatar of a fashion-forward action figure toy with accessories like sunglasses and hats, minimalist background, vector style, optimized for profiles, nano-banana AI.
 
-### 开放式办公室空间
+### 超级英雄头像
 
-> 宽敞的开放式办公室，协作区域和自然光线，现代室内设计，nano-banana
+> 圆形头像，一个超级英雄动作玩具穿戴时尚配件，简约风格，优化社交媒体使用，nano-banana AI。
+
+### Creative Anime Avatar
+
+> A cute anime-style avatar of a young girl with pink hair, wearing a magical outfit, holding a glowing wand, soft pastel colors, expressive eyes, detailed accessories, perfect for social media profiles.
+
+### 创意头像设计
+
+> 一个可爱的动漫头像，展示一个戴眼镜的男孩，背景是星空，手持魔法书，柔和的灯光，适合社交平台使用，高清图像。
+
+---
+
+## 海报 <a id="poster"></a>
+
+### 黄金时段名人肖像
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-134_0.jpg" width="500" />
+
+> 一个高质量的电影风格肖像，采用9:16纵横比，描绘Sam Altman和Elon Musk站在户外一座传统华丽的深色木质建筑前，建筑带有精致的绿色格栅窗户。Sam Altman位于前景，以特写失焦视角直视镜头，同时向观众递出一支香烟。他穿着一件带有OpenAl标志的黑色夹克。Elon Musk略微站在他身后右侧，也看着镜头，正在抽烟，穿着一件带有xAl标志的黑色衬衫。光线为温暖的金色小时阳光，在他们的脸部和衣服上营造出锐利的阴影和逼真的纹理。
+
+— 来源 [@harboriis](https://x.com/harboriis)
+
+### Sci-Fi Movie Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_86bcad21-c51d-4598-9486-99e197527434_0.png" width="500" />
+
+> Poster for a science fiction film titled 'Nano Odyssey', with aliens, spaceships, and futuristic cityscapes, high-detail rendering via nano-banana.
+
+### Music Festival Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_82ed0a23-88cd-4424-8ef8-dd3ae509dadd_0.png" width="500" />
+
+> Poster for an outdoor music festival, featuring band logos, dates, and crowd scenes, vibrant and energetic design with nano-banana.
+
+### 环保海报创作
+
+> 设计一个环保主题海报，展示地球和绿色植物，文字：保护环境从我做起，艺术风格：印象派
+
+### 科幻电影海报
+
+> A dramatic movie poster for a sci-fi film, with spaceship and aliens, bold title text, in the style of Hollywood posters
+
+### Dynamic Figure Poster
+
+> Poster design featuring an action figure toy in avant-garde fashion, bold colors and dramatic shadows, high contrast, suitable for social media promotion, nano-banana generated.
+
+### 玩具时尚海报
+
+> 一个动作玩具的海报设计，展示现代时尚服饰，鲜艳色彩和抽象背景，适合宣传，nano-banana 模型生成。
+
+### Bold Typography Poster
+
+> A minimalist poster with bold sans-serif typography saying 'Innovate with Nano-Banana', in red and black colors, high resolution, detailed design.
+
+### Vintage Promo Poster
+
+> Vintage-style poster promoting Nano-Banana, with retro fonts, illustrations of tech gadgets, and a call-to-action in warm colors.
+
+### Tool Ad Poster
+
+> Poster advertising Nano-Banana AI tool, with product screenshots, benefits listed in bullet points, and futuristic background.
+
+### Chinese Font Poster
+
+> 一个使用粗体中文字体的海报，主题是'纳米香蕉AI革命'，配以科技元素和高对比度设计。
+
+### Creative Poster Design
+
+> An creative anime-inspired poster for a fantasy festival, featuring mythical creatures and heroes, bold typography, vibrant colors, high-energy composition, suitable for event promotion.
+
+### 创意海报艺术
+
+> 一个创意动漫海报，主题是科幻电影宣传，包含机器人和太空船，大胆的字体设计，荧光色调，吸引眼球。
 
 ---
 
 ## 艺术创意 <a id="art"></a>
+
+### 文学打字机立体模型
+
+<img src="https://storage.tiktomato.com/prompts/nano-banana/na-138_0.jpg" width="500" />
+
+> function novel(AA){
+<instruction>
+Input A is a Famous Novel / Epic / Play / Literary Work.
+
+Analyze:
+- major themes, emotional tone, setting logic
+- symbolic objects and repeating motifs
+- narrative structure, protagonist tension, cultural setting
+- authorial voice translated into visual density and texture
+- period-authentic writing tools and material culture
+
+Goal:
+A "Typewriter Ribbon World."
+A giant vintage typewriter sits on a desk.
+The ink ribbon and strips of typed paper pour outward and rise into a detailed 3D environment from the book:
+cities, rooms, landscapes, characters, and symbols emerging from language itself.
+
+Rules:
+- text should become structure, not decorative clutter
+- letters and paragraphs must physically weave into walls, roads, weather, garments, or architecture
+- include marked-up drafts, fountain pen, spectacles, tea cup, torn pages, bookmarks
+- include a tiny version of the author typing at a miniature desk inside the scene
+- include a review clipping, banned-book notice, or publication headline tied to the work’s history
+- semantically infer period, geography, class signals, and symbolic details
+- lighting: lamp-lit study glow with soft archival shadows
+
+Output:
+ONE image, 4:5, literary-process diorama aesthetic
+</instruction>
+
+Output:
+2x2 grid, each grid with a different novel(AA) in the same genre output
+}
+
+— 来源 [@Gdgtify](https://x.com/Gdgtify)
 
 ### Abstract Art Composition
 
@@ -548,6 +426,264 @@
 ### 漫画角色细节
 
 > 一个详细的漫画角色插图，一个女忍者隐藏在森林中，复杂的服饰设计，精细的线条，黑暗氛围。
+
+---
+
+## 社交媒体 <a id="social"></a>
+
+### Climate Change Post
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_da7f1782-9338-41f6-8609-cf55705f6d06_0.png" width="500" />
+
+> A social media graphic about the effects of climate change, including icons and statistics, created with nano-banana model, vibrant colors and modern design.
+
+### Mental Health Graphic
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_0c0a4afb-0d66-4a0d-8d9d-03db42e0c37d_0.png" width="500" />
+
+> Social media post on mental health awareness, with supportive icons, quotes, and calming colors, rendered via nano-banana for emotional impact.
+
+### 社交媒体图形
+
+> A vibrant social media graphic for a product launch, featuring the product with text overlay, engaging fonts, for Instagram
+
+### Social Media Figure
+
+> Social media graphic of an action figure toy in trendy athletic fashion, interactive elements like speech bubbles, modern fonts, eye-catching design, nano-banana generated.
+
+### 社交图形玩具
+
+> 社交媒体图形，一个动作玩具在运动时尚中，互动元素如对话框，现代设计，nano-banana 生成。
+
+### Engagement Social Graphic
+
+> Social media graphic using Nano-Banana for engagement, with interactive elements, hashtags, and colorful visuals.
+
+### Anime Social Media Post
+
+> A stylish anime illustration for a social media post about creativity, showing an artist drawing in a studio, surrounded by sketches, modern aesthetic, soft lighting, motivational vibe.
+
+### 动漫社交内容
+
+> 一个动漫风格的社交媒体插图，展示朋友聚会场景，欢乐氛围，背景音乐元素，现代设计。
+
+---
+
+## 视频封面 <a id="thumbnail"></a>
+
+### Tech Review Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_79793376-72b6-4553-a9b8-2fff52b9ba41_0.png" width="500" />
+
+> YouTube thumbnail for a gadget review, featuring a sleek smartphone with explosive text overlays and dynamic lighting, in nano-banana style.
+
+### 视频缩略图设计
+
+> 设计一个YouTube视频缩略图，主题是科技教程，显示笔记本电脑和代码界面，吸引眼球的颜色
+
+### Fashion Toy Thumbnail
+
+> Thumbnail image of an action figure toy modeling catwalk fashion, energetic pose with background blur, 1080p resolution, engaging for video previews, nano-banana AI.
+
+### 缩略图时尚玩具
+
+> 视频缩略图，一个动作玩具在时装秀中摆姿势，背景模糊，1080p 分辨率，nano-banana AI。
+
+### YouTube Tips Thumbnail
+
+> Eye-catching YouTube thumbnail for a video on Nano-Banana AI tips, showing a stylized banana with nano elements and text 'Top Tips' overlay.
+
+### Gaming Video Thumbnail
+
+> Dynamic YouTube thumbnail for gaming video using Nano-Banana, with action poses, vibrant colors, and bold text overlay.
+
+### Tech Review Thumbnail
+
+> YouTube缩略图，展示纳米香蕉生成的图片，带有'AI艺术革命'的文字和动态效果。
+
+---
+
+## 产品广告 <a id="product"></a>
+
+### Smartwatch Product Image
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_174f82a8-5c05-410d-afc8-4c8c43ae1142_0.png" width="500" />
+
+> Photorealistic image of a high-tech smartwatch on a user's wrist, highlighting features like heart rate monitor, in nano-banana style with sharp details.
+
+### Eco Bottle Product
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_ab522707-2566-435e-b2fc-bc21924f4b99_0.png" width="500" />
+
+> Image of an eco-friendly reusable water bottle, with environmental icons and natural settings, photorealistic details from nano-banana.
+
+### 科技产品渲染
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_2c78217e-9cd4-4c0c-8c59-29c9edaa7041_0.png" width="500" />
+
+> 一个未来主义智能手机产品渲染，透明屏幕和金属边框，白背景，高清细节
+
+### 时尚产品照片
+
+> 拍摄一个时尚手袋产品照，皮革材质，优雅模特手持，工作室灯光，高端品牌风格
+
+### Product Toy Photo
+
+> Product shot of an action figure toy dressed in luxury fashion brands, on a white background with soft lighting, high fidelity, for e-commerce listings, nano-banana style.
+
+### 产品展示玩具
+
+> 产品照片，一个动作玩具身着高档时尚服装，白背景柔和光线，高保真细节，nano-banana 风格。
+
+### Product Tech Infographic
+
+> Infographic for a product using Nano-Banana technology, with specs, comparisons, and user benefits illustrated.
+
+### Astronaut Action Figure
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_caeb5495-c4a5-4275-821f-57be7bf18eec_0.png" width="500" />
+
+> A highly detailed collectible action figure of a female astronaut in premium retail box with transparent blister packaging. White NASA spacesuit with mission patches. Accessories: helmet, space toolkit, moon rock sample in separate compartments. Header card reads SPACE EXPLORER. Photorealistic product photography, studio lighting.
+
+### Outfit Decomposition Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="500" />
+
+> Decompose this outfit into a flat lay knolling image. Separate each clothing item and accessory neatly on a clean white background. Top-down view.
+
+### Backpack Gear Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="500" />
+
+> Decompose this backpack into individual gear items neatly arranged. Overhead knolling photography.
+
+### 服装平铺整理摄影
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_c32380ad-f86c-47f3-aef1-7da011a5fa61_0.png" width="500" />
+
+> 将这套服装分解成平铺整理图像，将每件单品整齐分开置于白色背景上。
+
+### 背包装备平铺摄影
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_b397d619-8c25-4339-baf3-c86af2026c9c_0.png" width="500" />
+
+> 将这个背包分解成单独的装备物品并整齐排列。俯视平铺摄影。
+
+---
+
+## 美食 <a id="food"></a>
+
+### Pizza Food Image
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_131d5152-4900-4e4a-a89a-59aec5c1433b_0.png" width="500" />
+
+> A mouthwatering image of a gourmet pizza with melted cheese, fresh vegetables, and pepperoni, realistic textures and lighting using nano-banana.
+
+### 美味甜点照
+
+> 一个巧克力熔岩蛋糕特写照片，中心流淌的巧克力，配新鲜浆果，乡村风格盘子，自然光线
+
+### 中式菜肴拍摄
+
+> 一个热气腾腾的宫保鸡丁照片，配以米饭和蔬菜，真实厨房场景，诱人光线
+
+### Exotic Fruits Poster
+
+> Poster featuring Nano-Banana generated food photography of exotic fruits, with vibrant colors and appetizing composition.
+
+### Tropical Fruit Platter
+
+> A vibrant platter of fresh tropical fruits like mango and pineapple, macro photography with dew drops, nano-banana
+
+### Tomato Soup Bowl
+
+> Steaming bowl of homemade tomato soup with fresh herbs and crusty bread, appetizing close-up, nano-banana
+
+### Gourmet Cheeseburger
+
+> Juicy cheeseburger with melted cheese, fries, and salad, high-resolution food styling, nano-banana
+
+### Healthy Green Salad
+
+> Fresh mixed greens salad with vegetables and vinaigrette, natural lighting and crisp details, nano-banana
+
+### Pastries Assortment
+
+> Assortment of colorful pastries and cakes on a wooden board, detailed textures and icing, nano-banana
+
+### Meal Ingredients Decomposition
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="500" />
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+
+### 餐食成分分解
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_fac66036-8deb-4770-ae48-95a94ded4a28_0.png" width="500" />
+
+> Decompose this meal into individual ingredients, each neatly separated on clean white surface. Flat lay food photography.
+
+---
+
+## 建筑 <a id="architecture"></a>
+
+### Modern Skyscraper Design
+
+<img src="https://storage.tiktomato.com/uploads/20260416/task_843d3333-720e-4ed9-a558-25fdde58d50b_0.png" width="500" />
+
+> Render of a futuristic glass skyscraper in an urban environment, with innovative architecture and daylight reflections, via nano-banana.
+
+### 现代建筑图
+
+> 一个未来主义建筑设计，玻璃幕墙和曲线结构，位于城市中心，蓝天白云背景，3D 渲染
+
+### 历史建筑渲染
+
+> A detailed architectural rendering of an ancient Roman colosseum at sunset, with crowds and historical accuracy
+
+### Futuristic Architecture Poster
+
+> Poster of futuristic architecture designed with Nano-Banana, showcasing skyscrapers and innovative structures in neon lights.
+
+### Modern Office Building
+
+> Sleek glass facade of a modern office skyscraper in an urban setting, detailed architectural rendering, nano-banana
+
+### Ancient Temple Ruins
+
+> Ruins of an ancient Greek temple with marble columns and statues, historical accuracy and weathering effects, nano-banana
+
+### Futuristic Cityscape
+
+> High-tech futuristic city with neon lights and flying vehicles, intricate architectural details, nano-banana
+
+### Victorian House Exterior
+
+> Elegant Victorian-style house with ornate details and a manicured garden, realistic 3D rendering, nano-banana
+
+### Suspension Bridge Night
+
+> Iconic suspension bridge over a river at night with illuminated lights and city backdrop, nano-banana
+
+### 简约客厅设计
+
+> 现代简约风格的客厅，白色家具和大窗户，自然光线，详细室内设计，nano-banana 模型
+
+### 奢华厨房布局
+
+> 高端厨房设计，大理石台面和不锈钢家电，明亮照明和现代元素，nano-banana
+
+### 温馨卧室布置
+
+> 温暖的卧室，木制床和柔和灯光，舒适的室内装饰细节，nano-banana
+
+### 艺术装饰浴室
+
+> 艺术装饰风格的浴室，几何瓷砖和金色配件，优雅设计，nano-banana
+
+### 开放式办公室空间
+
+> 宽敞的开放式办公室，协作区域和自然光线，现代室内设计，nano-banana
 
 ---
 
